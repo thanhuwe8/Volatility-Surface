@@ -1,2 +1,2 @@
 # Volatility-Surface
-Implementation Example from Volatility Surface by Emanuel Derman
+Implementation for examples from Volatility Surface book by Emanuel Derman
