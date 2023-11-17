@@ -1,2 +1,2 @@
 # Volatility-Surface
-Examples from Volatility Surface book by Emanuel Derman
+Examples from Volatility Smile by Emanuel Derman
